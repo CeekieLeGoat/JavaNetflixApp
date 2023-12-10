@@ -1,0 +1,2 @@
+entities.PaymentMethod
+entities.PaymentMethod$PaymentType
